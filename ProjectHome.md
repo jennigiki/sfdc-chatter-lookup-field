@@ -1,0 +1,3 @@
+In standard salesforce functionality, a lookup field cannot be used to lookup to a chatter user because they are not standard licence holders.  To get around this I've created a native-looking Lookup field which, when added to the page layout, allows users to lookup to Chatter users in much the same way as a normal field.
+
+Download the rar archive from the Downloads section then follow the instructions to set this up in your own org.
